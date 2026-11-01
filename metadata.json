@@ -1,0 +1,6 @@
+{
+  "name": "SOLO Monochrome Store",
+  "description": "Minimalist black and grey e-commerce storefront for SOLO, featuring seamless browsing, rapid ordering, and direct owner order notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
